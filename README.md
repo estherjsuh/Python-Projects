@@ -5,3 +5,9 @@
 
   * Kaggle Data: https://www.kaggle.com/unsdsn/world-happiness/data
   * Population Data: http://www.worldometers.info/world-population/population-by-country/
+
+
+## Logistic Regression Kickstarter:
+
+ * Kaggle Data: https://www.kaggle.com/kemical/kickstarter-projects/data
+ 
