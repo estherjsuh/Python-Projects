@@ -16,3 +16,13 @@
  
   * Part of Jose Portilla's Python for Data Science and Machine Learning Bootcamp
   * Link: https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/overview
+
+
+## EDA: Wine Reviews:
+
+ * Kaggle Data: https://www.kaggle.com/zynicide/wine-reviews/data
+
+
+## Pokemon: K-Nearest Neighbors:
+ 
+ * https://www.kaggle.com/abcsds/pokemon/data
