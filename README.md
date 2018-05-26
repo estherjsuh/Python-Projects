@@ -26,3 +26,13 @@
 ## Pokemon: K-Nearest Neighbors:
  
  * https://www.kaggle.com/abcsds/pokemon/data
+
+
+## Data Visualization Honey:
+
+ * Kaggle Data: https://www.kaggle.com/jessicali9530/honey-production
+
+
+## EDA & WordCloud for Women's E-commerce Reviews:
+
+ * Kaggle Data: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
