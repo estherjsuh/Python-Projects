@@ -36,3 +36,8 @@
 ## EDA & WordCloud for Women's E-commerce Reviews:
 
  * Kaggle Data: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
+
+## SF Fire Geopandas:
+
+ * SF open data: https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric
